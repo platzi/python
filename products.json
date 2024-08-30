@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Laptop",
+        "price": 1200,
+        "quantity": 4,
+        "brand": "BrandName",
+        "category": "Electronics",
+        "entry_date": "2024-01-05"
+    },
+    {
+        "name": "Mouse",
+        "price": 45,
+        "quantity": 120,
+        "brand": "TechGear",
+        "category": "Accessories",
+        "entry_date": "2024-02-10"
+    },
+    {
+        "name": "Headphones",
+        "price": 150,
+        "quantity": 25,
+        "brand": "SoundMax",
+        "category": "Audio",
+        "entry_date": "2024-03-15"
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 75,
+        "quantity": 100,
+        "brand": "ChargeMaster",
+        "category": "Accessories",
+        "entry_date": "2024-07-01"
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 75,
+        "quantity": 100,
+        "brand": "ChargeMaster",
+        "category": "Accessories",
+        "entry_date": "2024-07-01"
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 75,
+        "quantity": 100,
+        "brand": "ChargeMaster",
+        "category": "Accessories",
+        "entry_date": "2024-07-01"
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 75,
+        "quantity": 100,
+        "brand": "ChargeMaster",
+        "category": "Accessories",
+        "entry_date": "2024-07-01"
+    }
+]
