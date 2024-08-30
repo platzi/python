@@ -1,0 +1,22 @@
+name,price,quantity,brand,category,entry_date,total_value
+Laptop,1200,4,BrandName,Electronics,2024-01-05,4800.0
+Mouse,45,120,TechGear,Accessories,2024-02-10,5400.0
+Keyboard,70,60,KeyMasters,Accessories,2024-02-12,4200.0
+Monitor,320,15,ViewSharp,Electronics,2024-03-01,4800.0
+Headphones,150,25,SoundMax,Audio,2024-03-15,3750.0
+Webcam,85,40,ClearView,Electronics,2024-03-20,3400.0
+Printer,200,10,PrintWell,Office,2024-04-01,2000.0
+Tablet,400,30,TabZone,Electronics,2024-04-05,12000.0
+Smartphone,800,20,PhonePro,Electronics,2024-04-10,16000.0
+External Hard Drive,100,50,StoreMore,Storage,2024-05-01,5000.0
+Speaker,90,35,SoundMax,Audio,2024-05-05,3150.0
+Microphone,110,18,VoiceClear,Audio,2024-05-10,1980.0
+Charger,25,150,PowerPlus,Accessories,2024-05-15,3750.0
+USB Cable,10,200,CableWorld,Accessories,2024-05-20,2000.0
+Power Bank,60,80,ChargeIt,Accessories,2024-05-25,4800.0
+Router,150,25,NetSpeed,Networking,2024-06-01,3750.0
+Mouse Pad,20,100,ComfortZone,Accessories,2024-06-05,2000.0
+Laptop Stand,55,45,ErgoLift,Accessories,2024-06-10,2475.0
+Projector,550,8,ProView,Electronics,2024-06-15,4400.0
+Graphics Tablet,250,12,ArtMaster,Electronics,2024-06-20,3000.0
+Wireless Charger,75,100,ChargerMaster,Accessories,2024-07-01,7500.0
